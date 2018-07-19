@@ -5,13 +5,13 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: Your awesome site name :)
-header: Write something about you here...
+title: Mellom's Class Bash 2018
+header: I am a meat puppet
 
 # for welcome page
 # to replace image go to index.html
 email:
-  address: "user@example.com"
+  address: "mellomhead@gmail.com"
   text: "user (at) example.com"
 
 # disqus comment
